@@ -1,14 +1,14 @@
 ﻿#========================================================================
 # Name		: Hyper-V_VMConvertToStandard.ps1
 # Author 	: Florian Clisson
-# Email	    : florian.clisson@valeo.com
-# Team      : Solution Center 3S
+# Email	    : florian.clisson@gmail.com
+# 
 #========================================================================
 
 #****************************************************************************************************
 <#  
 .SYNOPSIS  
-    Applies the Valeo Standard regarding the Virtual machine after convertion VMware to Hyper-V.  
+    Applies the Standard regarding the Virtual machine after convertion VMware to Hyper-V.  
 .DESCRIPTION  
     
     This script does : 
